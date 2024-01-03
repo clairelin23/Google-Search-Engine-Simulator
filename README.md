@@ -8,5 +8,5 @@
 - a GUI panel
 
 ## two main package:
-- webCrawler.src is responsible for retrieving URLs given a user input 
-- sorting.src is responsible for ranking and displaying search results
+- webCrawler is responsible for retrieving URLs given a user input 
+- sorting is responsible for ranking and displaying search results
